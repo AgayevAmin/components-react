@@ -1,0 +1,27 @@
+
+.App-logo{
+  margin-top: 220px;
+  width: 60px;
+  height: 60px;
+}
+.section{
+  width: 70%;
+  height: 80%;
+    padding: 5px;
+    margin: 5px;
+    margin-left: 200px;
+    margin-top: 45px;
+    border: 1px solid black;
+    border-radius: 10px;
+   display: flex;
+   text-align: center;
+   justify-content: space-around;
+}
+.div1{
+  margin-top: 25px;
+ 
+  
+}
+.div2{
+  margin-top: 25px;
+}
